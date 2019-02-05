@@ -31,6 +31,6 @@ class Artist
   end
 
   #def to_param
-    name.downcase.gsub(' ', '-')
-  end
+    #name.downcase.gsub(' ', '-')
+  #end
 end
